@@ -2,7 +2,7 @@
 "mode": "false",
 "links": {
 "1": "link1",
-"100": "link2"
+"2": "link2"
 },
 "countries": {
 "PT": " ",
