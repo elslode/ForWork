@@ -1,10 +1,7 @@
 {
 "mode": "false",
 "links": {
-"1": "https://yandex.ru/",
-"2": "https://www.google.com/",
-"3": "https://twitter.com/",
-"4": "https://www.youtube.com/"
+"1": "https://yandex.ru/"
 },
 "countries": {
 "PT": " ",
