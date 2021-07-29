@@ -6,8 +6,8 @@
 "3": "https://translate.yandex.ru/?from=tableau_yabro",
 "4": "https://www.youtube.com/"
 },
-"countries": {
+"countries": [
 "PT",
 "EN"
-}
+]
 }
