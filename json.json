@@ -2,7 +2,8 @@
   "mode": "true",
   "links": {
     "1": "https://www.google.ru",
-    "2": "https://www.rambler.ru/"
+    "2": "https://www.rambler.ru/",
+    "3": "https://yandex.ru"
   },
   "countries": [
     "PT"
