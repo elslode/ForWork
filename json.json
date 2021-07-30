@@ -2,7 +2,8 @@
   "mode": "true",
   "links": {
     "1": "https://www.google.ru",
-    "3": "https://yandex.ru"
+    "4": "https://drive.google.com",
+    "5": "https://ip-api.com/"
   },
   "countries": [
     "PT"
