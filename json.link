@@ -1,10 +1,9 @@
 {
-"mode": "true",
+"mode": "false",
 "links": {
 "1": "https://yandex.ru/",
 "2": "https://www.google.com/",
-"3": "https://translate.yandex.ru/?from=tableau_yabro",
-"4": "https://www.youtube.com/"
+"3": "https://translate.yandex.ru/?from=tableau_yabro"
 },
 "countries": [
 "PT",
